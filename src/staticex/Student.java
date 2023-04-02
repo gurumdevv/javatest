@@ -14,4 +14,6 @@ public class Student {
     public void setStudentName(String name) {
         studentName = name;
     }
+
+    //github 확인을 위해 주석 추가함
 }
